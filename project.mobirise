@@ -11,6 +11,13 @@
     "versionFirst": "4.12.4",
     "siteFonts": [],
     "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 3,
     "versionPublish": "4.12.4"
   },
